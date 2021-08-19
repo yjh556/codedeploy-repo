@@ -1,3 +1,0 @@
-echo 'Running set_owner'
-
-chown -R ec2-user /var/www/html
